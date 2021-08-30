@@ -1,0 +1,36 @@
+.Introduction {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.CurrentPrice {
+    margin-top: -6px;
+    color:#a52a2a;
+    font-size: 22px;
+}
+
+.Message {
+    color:#a52a2a;
+    font-size: 16px;
+}
+
+.Budget {
+    color:#0da12d;
+}
+
+.Button {
+    border-radius: 2px;
+}
+
+.PurchaseButton {
+    border-radius: 2px;
+    background-color: rgb(31, 187, 31);
+    color: white;
+}
+
+.SubmitButton {
+    border-radius: 2px;
+    background-color: rgb(31, 187, 31);
+    color: white;
+    font-size: 22px;
+}
